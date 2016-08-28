@@ -1,14 +1,13 @@
 body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+        padding-top: 60px; 
       }
-      
       #todo-list li {
         border-bottom: 1px solid #333333;
         padding: 15px 0;
       }
 
       .container {
-      	width: 750px;
+          width: 750px;
       }
 
       .logo {
@@ -18,3 +17,4 @@ body {
       	padding: 10px;
       	float: left;
       }
+      
